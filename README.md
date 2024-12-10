@@ -1,3 +1,18 @@
+# reliant but mobile
+
+[download](https://github.com/ducky4life/reliant-mobile/releases/latest/download/reliant-release.zip)
+
+no double tap to zoom
+
+changes: added to [css file](https://github.com/ducky4life/reliant-mobile/blob/main/src/css/_main.scss)
+```css
+  * {
+      touch-action: manipulation;
+  }
+```
+
+## original reliant readme
+
 # Reliant
 Reliant is a browser extension for Chromium-based browsers that seeks to make defending easier.
 ## Quick Start
