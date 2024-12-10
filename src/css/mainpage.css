@@ -2,12 +2,15 @@
  * Aesthetics
  */
 
+  * {
+      touch-action: manipulation;
+  }
+
 body {
     font-family: Verdana, sans-serif;
     background-color: #1F202D;
     /*color: #29659C;*/
     color: #fff;
-    touch-action: manipulation;
 }
 
 input[type=button] {
