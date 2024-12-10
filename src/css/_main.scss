@@ -6,6 +6,10 @@
 
 /* Body */
 
+  * {
+      touch-action: manipulation;
+  }
+
 html {
     font-size: 62.5%; // So that root size becomes 10px
     font-family: $font-family-base;
