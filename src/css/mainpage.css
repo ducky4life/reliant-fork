@@ -7,6 +7,7 @@ body {
     background-color: #1F202D;
     /*color: #29659C;*/
     color: #fff;
+    touch-action: manipulation;
 }
 
 input[type=button] {
